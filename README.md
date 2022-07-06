@@ -1,4 +1,4 @@
-# hello-world
+# danaxa task
 
 ## Project setup
 ```
